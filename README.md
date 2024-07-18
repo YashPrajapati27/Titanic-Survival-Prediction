@@ -1,5 +1,4 @@
-![logo
-(https://videocdn.geeksforgeeks.org/geeksforgeeks/TitanicSurvivalPredictionusingTensorflow/TitanicSurvivalprediction20230121205510.jpg)
+![logo](https://github.com/YashPrajapati27/Titanic-Survival-Prediction/blob/main/sddefault.jpg)
 # Titanic Survival Prediction
 
 This project aims to predict the survival of passengers on the Titanic using machine learning. The primary algorithm used is Linear Regression, and several Python libraries, including NumPy, Matplotlib, Seaborn, and Scikit-learn (sklearn), are utilized for data processing, visualization, and model building.
